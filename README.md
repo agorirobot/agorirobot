@@ -42,7 +42,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 
 👋🏻 <b>I'm Your Brother* Robo, Find Me In TG As [personal Robot 🤖](https://telegram.me/personal_privetbot1), [Sulthana](https://telegram.me/personalautofilterbot),etc.,</b> 😝
 
-- 🔭 I’m currently working with Velayilla pattadhari 🤪, Other Languages Also.
+- 🔭 I’m currently  Velayilla pattadhari 🤪.
 
 - 🌱 I’m a machinist mechanic 😉, And I Am A Qc inspector 👨‍⚕️
 
