@@ -26,7 +26,7 @@ Find Me In TG As [Personal Robot](https://telegram.dog/personal_privetbot1), [ag
 ### About 🙋🏻‍♂️
 ```python
 UserName = os.environ.get("USER_NAME", "agoriadmin")
-Love = os.environ.get("Selina Gomez", "💕") # Lol Except Someone Special ( Don't Ask Who Is It )
+Love = os.environ.get("Jun Ji Hyun", "💕") # Lol Except Someone Special ( Don't Ask Who Is It )
 Age = int(os.environ.get("AGE", "25"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
 ```
